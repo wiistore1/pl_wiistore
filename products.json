@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nama": "Spotify Premium 1 Bulan",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 10000,
+    "gambar": "assets/img/spotify.png",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 2,
+    "nama": "Vidio Platinum 1 Bulan Private",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 15000,
+    "gambar": "assets/img/vidio.png",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 3,
+    "nama": "Canva Pro 1 Bulan",
+    "deskripsi": "Hanya Membutuhkan Email, s&k dikirim saat pembelian.",
+    "harga": 2000,
+    "gambar": "assets/img/ig.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 4,
+    "nama": "YouTube Premium famplan 1 Bulan",
+    "deskripsi": "Hanya Membutuhkan Email, s&k dikirim saat pembelian.",
+    "harga": 2000,
+    "gambar": "assets/img/yt.png",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 5,
+    "nama": "Wetv Premium 1 Bulan Private",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 25000,
+    "gambar": "assets/img/wetv.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "Prime Video 1 Bulan Private",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 8000,
+    "gambar": "assets/img/prime.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "viu 3 Bulan Private",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 8000,
+    "gambar": "assets/img/viu.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "Apple Music 1 Bulan",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 6000,
+    "gambar": "assets/img/apple.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "Bstation 1 Bulan Sharing",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 8000,
+    "gambar": "assets/img/bsta.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "CapCut Pro 7 hari Private",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 5000,
+    "gambar": "assets/img/prime.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "Netflix 1 Bulan Sharing",
+    "deskripsi": "AKun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 23000,
+    "gambar": "assets/img/net.png",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  },
+  {
+    "id": 6,
+    "nama": "Zoom 7 Hari 100P",
+    "deskripsi": "Akun Dari Seller, s&k dikirim saat pembelian.",
+    "harga": 8000,
+    "gambar": "assets/img/zoom.jpg",
+    "kategori": "aplikasi",
+    "diskon": false,
+    "best_seller": true
+  }
+]
